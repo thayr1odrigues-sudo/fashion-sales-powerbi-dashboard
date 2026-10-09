@@ -1,4 +1,5 @@
 👗 Fashion Sales Dashboard
+
 📊 Sobre o Projeto
 Dashboard desenvolvido em Power BI para análise de vendas do segmento de moda.
 
